@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dron-salvavidas-vision"
+version = "0.0.1"
+description = "Detección de ahogamientos con visión artificial para un dron salvavidas autónomo"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [
+  { name = "Luciano Esteban" },
+  { name = "Elías Espinosa" },
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
