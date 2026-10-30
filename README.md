@@ -1,4 +1,6 @@
-# dron-salvavidas-vision
+# gavia-vision
+
+Parte de Gavia, un dron salvavidas autónomo con IA.
 
 Detección de ahogamientos con visión artificial para un dron salvavidas autónomo. Corre en una
 laptop sin internet y le da órdenes al dron por MAVLink.
@@ -55,9 +57,9 @@ En diseño. Todavía no hay código funcional. La estructura de módulos ya est�
 
 ## Repos del proyecto
 
-- [dron-salvavidas-vision](https://github.com/LucioFex/dron-salvavidas-vision): detección y lógica de decisión (este repo)
-- [dron-salvavidas-firmware](https://github.com/LucioFex/dron-salvavidas-firmware): botonera ESP32 y configuración de ArduPilot
-- [dron-salvavidas-hardware](https://github.com/LucioFex/dron-salvavidas-hardware): modelos 3D y lista de materiales
+- [gavia-vision](https://github.com/LucioFex/gavia-vision): detección y lógica de decisión (este repo)
+- [gavia-firmware](https://github.com/LucioFex/gavia-firmware): botonera ESP32 y configuración de ArduPilot
+- [gavia-hardware](https://github.com/LucioFex/gavia-hardware): modelos 3D y lista de materiales
 
 ## Desarrollo
 
