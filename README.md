@@ -79,6 +79,16 @@ pip install -e ".[dev]"
 pytest
 ```
 
+## Con el apoyo de diVenuo
+
+<a href="https://divenuo.com"><img src="docs/marca/divenuo.png" alt="diVenuo" width="180"></a>
+
+Gavia es un proyecto del equipo, liderado por Luciano Esteban, con el apoyo de
+[diVenuo](https://divenuo.com). diVenuo no vende ni certifica el dron.
+
+El nombre y el logo de diVenuo no entran en la licencia de este repo. Para usarlos en una versión
+propia de Gavia hace falta permiso.
+
 ## Licencia
 
 [AGPL-3.0](LICENSE) (versión 3 o posterior). Copyright 2026 Luciano Esteban y Elías Espinosa.
