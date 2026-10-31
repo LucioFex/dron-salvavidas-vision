@@ -1,4 +1,8 @@
-dron-salvavidas-vision
+gavia-vision
 Copyright 2026 Luciano Esteban y Elías Espinosa
 
-Este producto se distribuye bajo la licencia Apache 2.0 (ver LICENSE).
+Este programa se distribuye bajo la licencia GNU Affero General Public License, versión 3 o
+posterior (ver LICENSE). Hasta el 2026-10-31 se distribuía bajo Apache 2.0.
+
+El detector usa Ultralytics YOLO, que tiene licencia AGPL-3.0
+(https://www.ultralytics.com/license).

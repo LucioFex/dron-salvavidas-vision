@@ -1,1 +1,1 @@
-"""Máquina de estados que decide despegar, esperar, soltar el flotador o volver."""
+"""Máquina de estados que decide despegar, esperar al costado, posarse o volver."""

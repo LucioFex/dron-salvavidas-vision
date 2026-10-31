@@ -7,7 +7,7 @@ name = "dron-salvavidas-vision"
 version = "0.0.1"
 description = "Detección de ahogamientos con visión artificial para un dron salvavidas autónomo"
 readme = "README.md"
-license = { text = "Apache-2.0" }
+license = { text = "AGPL-3.0-or-later" }
 authors = [
   { name = "Luciano Esteban" },
   { name = "Elías Espinosa" },
